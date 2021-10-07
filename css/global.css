@@ -28,15 +28,17 @@ body > header {
     box-shadow: 1px 0px 8px rgb(200, 200, 200);
 }
 
-header .logo-search form  {
+.logo-search form  {
     width: 50%;
 }
 
-header .user {
+
+.user {
     float: right;
+    margin-top: 20px;
 }
 
-header .user a {
+.user a {
     font-size: 13px;
     color: #89949b;
     padding-top: 5px;
